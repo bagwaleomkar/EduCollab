@@ -1,4 +1,4 @@
-# EduCollab - Collaborative Study Platform
+# EduCollab - Collaborative Study Platform.
 
 A modern, responsive authentication system for a collaborative learning platform built with React and Tailwind CSS.
 
